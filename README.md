@@ -6,10 +6,6 @@ This project implements a digital elevator controller for a 10-floor building us
 Course
 ECE 2300L – Digital Logic Principles
 
-Team Members
-- Ty Instone
-- Jeffrey Gomringer
-- Glanda San
 
 Project Features
 - Finite State Machine (FSM) control
